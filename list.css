@@ -1,0 +1,32 @@
+.todolist {
+    text-align: center;
+    margin-right: 100px;
+    margin-left: 250px;
+    margin-top: 100px;
+    text-decoration: none;
+}
+body {
+    background-image: url("./bgimg.jpeg");
+    background-repeat: no-repeat;
+    background-size:cover;
+}
+.input-group input[type="text"] {
+    height: 3.2rem;
+    width: 30rem;
+    font-size: 1.7rem;
+    border-bottom: solid 1px #16a864;
+    color: darkmagenta;
+    border-radius: 2px;
+    margin-right:4px ;
+}
+.input-group input[type="button"] {
+    height: 3.2rem;
+    width: 6.3rem;
+    background: yellow;
+    font-weight: bold;
+    font-size: 1.5rem;
+    border-radius: 2px;
+}
+.row {
+    font-size: 3rem;
+}
